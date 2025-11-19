@@ -1,0 +1,6 @@
+<resources>
+    <string-array name="role_options">
+        <item>duenio</item>
+        <item>usuario</item>
+    </string-array>
+</resources>

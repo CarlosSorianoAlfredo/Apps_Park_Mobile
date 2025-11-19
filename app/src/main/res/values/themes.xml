@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema principal de la aplicación -->
+    <style name="Theme.Apps_Park" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Color primario de la marca (usado en barras, botones, etc.) -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <!-- Color de fondo para todas las pantallas -->
+        <item name="android:windowBackground">@color/app_background</item>
+    </style>
+</resources>

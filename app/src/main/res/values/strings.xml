@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Apps_Park</string>
+    <string name="precio_por_hora">$%.2f/hora</string>
+</resources>

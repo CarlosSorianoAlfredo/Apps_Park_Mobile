@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores base de la aplicación -->
+    <color name="colorPrimary">#007AFF</color> <!-- Azul primario -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="gray">#8A94A6</color>
+    <color name="app_background">#F5F7FA</color> <!-- Un gris muy claro para los fondos -->
+
+    <!-- Colores para Indicadores de Estado (reutilizables) -->
+    <color name="status_red">#E74C3C</color>
+    <color name="status_orange">#F39C12</color>
+    <color name="status_green">#2ECC71</color>
+
+</resources>
